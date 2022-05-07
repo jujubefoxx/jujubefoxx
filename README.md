@@ -1,12 +1,14 @@
 ### Hi there 👋
-![jujubefoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujubefoxx&count_private=true&show_icons=true&theme=buefy&hide=issues,stars,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujubefoxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujubefoxx)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on Dongguan
 - 📫 How to reach me: wechat:liiiiiicccccc
+- 有想法不如马上嘎嘎乱敲
 
 <!--
 **jujubefoxx/jujubefoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![jujubefoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujubefoxx&count_private=true&show_icons=true&theme=buefy&hide=issues,stars,prs)
 
 Here are some ideas to get you started:
 
